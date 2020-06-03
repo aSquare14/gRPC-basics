@@ -1,4 +1,6 @@
 
+A basic program in which the client sends two numbers to the server and ther server multiplies them and returns answer using gRPC protocol.
+
 To run :
 
 ```
