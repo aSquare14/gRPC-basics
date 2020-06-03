@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 **/.vscode/
+/bazel-bin
+/bazel-gRPC-basics
+/bazel-out
+/bazel-testlogs
 
 # Compiled Object files
 *.slo
